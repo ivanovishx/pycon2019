@@ -10,11 +10,13 @@ https://github.com/ivanovishx/drone_AID_Hackaton_TCDisrupt2017
 
 Descargar para este tutorial:
 
-https://github.com/tensorflow/models
+#1 https://github.com/tensorflow/models
 
-http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz
+#2 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
-https://www.dropbox.com/s/va9ob6wcucusse1/inference_graph.zip?dl=0
+#3 http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz
+
+#4 https://www.dropbox.com/s/va9ob6wcucusse1/inference_graph.zip?dl=0
 
 
 Tutoriales utilizados para Tensorflow:
