@@ -160,7 +160,7 @@ OK Instructions::
 				-->Unzip the democode from the tutorial
 					-->Unzip the Trained model for object detection(from model Zoo)
 						aka: "inference graph"
-						-->In the "object_detection" directory run the script "Object_detection_image.py"
+						-->In the "object_detection" directory run the script "Object_detection_webcam.py"
 
 
 
