@@ -35,7 +35,7 @@ Tutorial: Train an Object Detection Classifier for mMltiple Objects using Tensor
 
 Objective: Run and train an object detection model
 
-1. Download a fresh version of tensorflow
+1. Create a new enviroment in anaconda and Install tensorflow from non installed packages
 2. Download all the Python packages
 3. Specific additions to the PATH and PYTHONPATH variables
 4. Download Tensorflow Object Detection API repository from Github
