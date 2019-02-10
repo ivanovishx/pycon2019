@@ -28,7 +28,7 @@ Link de la presentacion:
 https://docs.google.com/presentation/d/1At2aw6ncrLejHSE_drYpiIGqXMnmOOSubRgGFGAVLS8/edit?usp=sharing 
 
 
-#Instrucciones
+# Instrucciones
 
 
 Tutorial: Train an Object Detection Classifier for mMltiple Objects using Tensorflow
