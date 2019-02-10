@@ -21,7 +21,10 @@ Tutoriales utilizados para Tensorflow:
 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
+https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-1-selecting-a-model-a02b6aabe39e 
+
 https://modelzoo.co/model/objectdetection
+
 
 Link de la presentacion:
 
