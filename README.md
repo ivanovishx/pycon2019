@@ -144,23 +144,36 @@ Objective: Run and train an object detection model
 Flow of the procedure:
 
 -->Select the model to train the object detection clasifier
+
 	-->Train the object detection clasifier(we will use SSD because of this Mac)
+	
 	-->Setup the TensorFlow Object Detection API to use pre-trained models for object detection
+	
 		-->Train a new detection classifier (#12)
+		
 			-->Label Pictures
+			
 				-->Generate Training Data
+				
 
 
 OK Instructions::
 
 -->Create the tensorflow1 working space
+
 	-->Activate Tensorflow
+	
 		-->Install all the dependences
+		
 			-->set the PYTHONPATH enviroment variables
+			
 				-->Unzip the democode from the tutorial
+				
 					-->Unzip the Trained model for object detection(from model Zoo)
+					
 						aka: "inference graph"
-						-->In the "object_detection" directory run the script "Object_detection_webcam.py"
+						-->In the "object_detection" directory run the script 
+						"Object_detection_webcam.py"
 
 
 
