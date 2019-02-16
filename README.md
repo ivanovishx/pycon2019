@@ -179,7 +179,10 @@ OK Instructions::
 						"Object_detection_webcam.py"
 
 
+TEST SCRIPT:
 
+cd: ⁨tensorflow1⁩ ▸ ⁨models⁩ ▸ ⁨research⁩ ▸ ⁨object_detection⁩ 
+python Object_detection_webcam.py 
 
 
 
