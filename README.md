@@ -27,6 +27,9 @@ https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tuto
 
 https://modelzoo.co/model/objectdetection
 
+Link de Mapa:
+
+https://github.com/tensorflow/models/blob/e6ce8cddd6a8b62922f07b632324903764f14855/research/cognitive_planning/label_map.txt 
 
 Link de la presentacion:
 
